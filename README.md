@@ -115,10 +115,3 @@ Trainable Parameters: 685,135
 | Pawan Thakre | [@pawan185](https://github.com/pawan185) |
 
 ---
-
-> ✅ **Note:** Replace `your-username` and `your-repo-name` with your actual GitHub details before pushing this README to your repository.
-
----
-
-Happy Coding! 🌱
-

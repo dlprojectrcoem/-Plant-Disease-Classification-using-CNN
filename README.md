@@ -56,10 +56,10 @@ To develop a deep learning-based image classification system that accurately ide
 
 ## 📈 Performance:
 
-- **Training Accuracy:** \~99%
-- **Validation Accuracy:** \~97%
+- **Training Accuracy:** ~99%
+- **Validation Accuracy:** ~97%
 
-## 📋 Model Summary:
+## 🗓️ Model Summary:
 
 ```
 Layer (type)                 Output Shape              Param #
@@ -105,6 +105,14 @@ Trainable Parameters: 685,135
 - The use of segmented images boosts accuracy by removing background noise.
 - With proper preprocessing and augmentation, model overfitting is minimized.
 - This project can be extended into real-time mobile applications for farmers.
+
+## 👥 Contributors:
+
+| Contributor | GitHub Profile |
+|-------------|----------------|
+| Niyar Rane | [@Niyar07](https://github.com/Niyar07) |
+| Lobhesh Sambare | [@lobsam1222](https://github.com/lobsam1222) |
+| Pawan Thakre | [@pawan185](https://github.com/pawan185) |
 
 ---
 
